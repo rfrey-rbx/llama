@@ -7,4 +7,4 @@ license = "MIT"
 dependencies_root = "src"
 
 [dependencies]
-t = "https://github.com/osyrisrblx/t"
+t = "github.com/osyrisrblx/t"
